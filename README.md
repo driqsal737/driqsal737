@@ -1,5 +1,38 @@
-### Hi there 👋
+## Buenas!! Bienvenido a mi perfil 👋
+### Por aquí te dejo algunos datos para que me conozcas un poco mejor:
 
+Nombre: David Riquelme Salgero
+
+Curso: 1ºASIR
+
+GitHub: https://github.com/driqsal737
+<br>
+<br>
+
+#### Resumen
+
+Soy un estudiante de ASIR con un gran interés en el desarrollo de software y las tecnologías web. Tengo experiencia en [enumera tus habilidades y experiencia relevantes]. Estoy entusiasmado con el aprendizaje de nuevas tecnologías y la colaboración con otros en proyectos de código abierto.<br>
+#### Próximas habilidades
+<ul>
+    <li>Programación: Python, Java, C++, HTML, CSS, JavaScript</li>
+    <li>Versionado de código: Git, GitHub</li>
+    <li>Bases de datos: MySQL, PostgreSQL</li>
+    <li>Herramientas: Docker, Kubernetes</li>
+</ul>
+
+#### Enlaces de interés
+
+- [LinkedIn](https://es.linkedin.com/in/david-riquelme-salguero-436872258)
+
+#### Contacto
+
+Si te interesa colaborar conmigo o tienes alguna pregunta, no dudes en contactarme a través de GitHub o por correo electrónico a "driqsal737@g.educaand.es".
+
+<br>
+
+De antemano, agradezco a todos los que contribuyan a mi formación y desarrollo como profesional.
+
+¡Gracias por tu tiempo!
 <!--
 **driqsal737/driqsal737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
