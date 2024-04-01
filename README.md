@@ -11,7 +11,7 @@ GitHub: https://github.com/driqsal737
 
 #### Resumen
 
-Soy un estudiante de ASIR con un gran interés en el desarrollo de software y las tecnologías web. Tengo experiencia en [enumera tus habilidades y experiencia relevantes]. Estoy entusiasmado con el aprendizaje de nuevas tecnologías y la colaboración con otros en proyectos de código abierto.<br>
+Soy un estudiante de ASIR con un gran interés en el desarrollo de software y las tecnologías web. Tengo experiencia en **HTML** y **CSS**. Estoy entusiasmado con el aprendizaje de nuevas tecnologías y la colaboración con otros en proyectos de código abierto.<br>
 #### Próximas habilidades
 <ul>
     <li>Programación: Python, Java, C++, HTML, CSS, JavaScript</li>
